@@ -1,4 +1,4 @@
-# northwind-sales-analysis--SQL
+# Northwind-sales-analysis-SQL
 SQL project analyzing sales data from the Northwind database using structured queries and business-focused insights.
 # Northwind Sales Performance Analysis (SQL)
 
